@@ -1,2 +1,3 @@
 # incompletchat
-Este repositório se trata de um chat incompleto feito durante meu curso de informática. Não possui finalidade, mas posso tirar ideias dele futuramente.
+Este repositório se trata de um "chat" incompleto feito durante meu curso de informática. Não possui finalidade, mas posso tirar ideias dele futuramente.
+É basicamente um código de conceito, não funcional.
