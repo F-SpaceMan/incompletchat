@@ -18,7 +18,7 @@
     </head>
     <body>
         <%
-            FileReader fr = new FileReader("https://github.com/F-SpaceMan/incompletchat/Chat/arquivo.txt");
+            FileReader fr = new FileReader("https://github.com/F-SpaceMan/incompletchat/blob/master/Chat/arquivo.txt");
             BufferedReader br = new BufferedReader(fr);
             
             while(br.ready()){
